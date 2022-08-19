@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.nav{
+    height: 100px;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+
+}
+
+.nav-title{
+    outline: 1px dotted green;
+    height: 75px;
+
+}
+
+.nav-links{
+    outline: 1px dotted green;
+    height: 60px;
+}
